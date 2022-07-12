@@ -19,3 +19,13 @@ margin: 2%;
 margin: 2%;
 color: gray;
 }
+
+#cabecera{
+    background-color: rgb(3, 0, 102);
+    
+}
+
+#txtCabecera{
+color: white;
+padding: 2% 2% 2% 2%;
+}
