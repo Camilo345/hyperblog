@@ -1,5 +1,21 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: red;
+   
+}
+
+#container{
+    width: 80%;
+    border: 1px solid black;
+    margin: 5%;
+    margin-left: 10%;
+}
+
+#h1T{
+margin: 2%;
+}
+
+#pP{
+margin: 2%;
+color: gray;
 }
